@@ -13,3 +13,10 @@ prop.table(table(ingere_massa))
 prop.table(table(ingere_refri))
 prop.table(table(ingere_alcool))
 prop.table(table(fruta_gosta))
+
+# ANÁLISES DESCRITIVAS - VARIÁVEIS QUANTITATIVAS
+summary(idade)
+summary(peso)
+sd(peso)
+summary(n_refeicoes_dia)
+sd(n_refeicoes_dia)
